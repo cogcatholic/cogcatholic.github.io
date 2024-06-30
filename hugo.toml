@@ -1,0 +1,8 @@
+baseURL = 'https://cogcatholic.github.io/'
+languageCode = 'en-us'
+title = 'The COG Catholic'
+theme = "beautifulhugo"
+enableEmoji = true
+
+[params]
+title = "The COG Catholic"
