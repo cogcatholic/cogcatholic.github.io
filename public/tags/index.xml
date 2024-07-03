@@ -5,7 +5,115 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on The COG Catholic</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <managingEditor>thecogcatholic@outlook.com (Darren)</managingEditor>
+    <webMaster>thecogcatholic@outlook.com (Darren)</webMaster>
+    <lastBuildDate>Mon, 01 Jul 2024 20:40:20 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/tags/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laodicean</title>
+      <link>http://localhost:1313/tags/laodicean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/laodicean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bible Alone</title>
+      <link>http://localhost:1313/tags/bible-alone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/bible-alone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Church Fathers</title>
+      <link>http://localhost:1313/tags/church-fathers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/church-fathers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heaven</title>
+      <link>http://localhost:1313/tags/heaven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/heaven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resurrection</title>
+      <link>http://localhost:1313/tags/resurrection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/resurrection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Immortal Soul</title>
+      <link>http://localhost:1313/tags/immortal-soul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/immortal-soul/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mary</title>
+      <link>http://localhost:1313/tags/mary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/mary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Law</title>
+      <link>http://localhost:1313/tags/law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/law/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unclean Meats</title>
+      <link>http://localhost:1313/tags/unclean-meats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/unclean-meats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fot</title>
+      <link>http://localhost:1313/tags/fot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/fot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prayer</title>
+      <link>http://localhost:1313/tags/prayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/prayer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christology</title>
+      <link>http://localhost:1313/tags/christology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/christology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trinity</title>
+      <link>http://localhost:1313/tags/trinity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/trinity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Born Again</title>
+      <link>http://localhost:1313/tags/born-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/tags/born-again/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

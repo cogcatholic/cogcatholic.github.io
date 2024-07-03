@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trinity on The COG Catholic</title>
+    <link>http://localhost:1313/tags/trinity/</link>
+    <description>Recent content in Trinity on The COG Catholic</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>thecogcatholic@outlook.com (Darren)</managingEditor>
+    <webMaster>thecogcatholic@outlook.com (Darren)</webMaster>
+    <lastBuildDate>Tue, 29 Aug 2023 05:45:38 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/trinity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Reasons COGs Are Not Christian</title>
+      <link>http://localhost:1313/page/blog/5-reasons-cogs-are-not-christian/</link>
+      <pubDate>Tue, 29 Aug 2023 05:45:38 -0500</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/page/blog/5-reasons-cogs-are-not-christian/</guid>
+      <description>Can we apply the label &amp;ldquo;Christian&amp;rdquo; to the various COGs in the Armstrong tradition, such as the United Church of God (UCG); Church of God, a Worldwide Association (COGWA); Church of God International (CGI); Intercontinental Church of God (ICG); and all the rest?&#xA;We surely agree that the Church of Jesus Christ of Latter Day Saints (think Mormons) and The Watch Tower Bible and Tract Society (think Jehovah&amp;rsquo;s Witnesses) are not Christian.</description>
+    </item>
+  </channel>
+</rss>
