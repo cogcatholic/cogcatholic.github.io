@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The COG Catholic</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content on The COG Catholic</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>thecogcatholic@outlook.com (Darren)</managingEditor>
+    <webMaster>thecogcatholic@outlook.com (Darren)</webMaster>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&amp;ldquo;Greetings!&amp;rdquo;&#xA;My name is Darren, and I&amp;rsquo;m Catholic.&#xA;“COG” is short for “Church of God.” It&amp;rsquo;s an umbrella term for all the churches that trace their tradition directly to Herbert W. Armstrong, whose ministry began around 1934 and ended at his death in 1986. He founded the Worldwide Church of God (WCG). The church&amp;rsquo;s splinter groups include&amp;hellip;&#xA;Christian Biblical Church of God (CBCG) Church of God - A Worldwide Association (COGWA) Church of God International (CGI) Intercontinental Church of God (ICG) Living Church of God (LCG) Philadelphia Church of God (PCG) Restored Church of God (RCG) United Church of God (UCG) and many others.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/page/contact/</guid>
+      <description>Send an Email Email me at TheCOGCatholic (an Outlook.com address).&#xA;Here is my GPG key IF you wish to encrypt your email.&#xA;To encrypt emails using&amp;hellip;&#xA;Thunderbird: See video &amp;ldquo;Encrypt your Personal Email with Thunderbird.&amp;rdquo; Webmail Use Mailvelope with its browser extension. Android Use K-9 Mail from Google Play or F-Droid. (Alternative) Just use the &amp;ldquo;Online PGP tool&amp;rdquo; at aliceandbob.io. (Paste the text of my public PGP/GPG key into the right side of the screen.</description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/page/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>thecogcatholic@outlook.com (Darren)</author>
+      <guid>http://localhost:1313/page/links/</guid>
+      <description>Coming soon.</description>
+    </item>
+  </channel>
+</rss>
