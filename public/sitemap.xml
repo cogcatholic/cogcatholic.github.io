@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-01T20:40:20-05:00</lastmod>
+    <lastmod>2024-07-05T20:25:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/</loc>
-    <lastmod>2024-07-01T20:40:20-05:00</lastmod>
+    <lastmod>2024-07-05T20:25:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/blog/</loc>
-    <lastmod>2024-07-01T20:40:20-05:00</lastmod>
+    <lastmod>2024-07-05T20:25:23-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/books/</loc>
-    <lastmod>2024-07-01T20:40:20-05:00</lastmod>
+    <loc>http://localhost:1313/tags/sabbath/</loc>
+    <lastmod>2024-07-05T20:25:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-05T20:25:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/blog/what-i-didnt-know-about-the-sabbath/</loc>
+    <lastmod>2024-07-05T20:25:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/books/</loc>
     <lastmod>2024-07-01T20:40:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/blog/top-5-books-that-led-me-to-the-catholic-church/</loc>
