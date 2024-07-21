@@ -72,6 +72,7 @@ Among the things done "under the sun" include:
 
 ☀️  chance
 
+
 These are the kinds of things we all experience in everyday life, and they are discussed throughout the book.
 
 ## "The dead know nothing"
