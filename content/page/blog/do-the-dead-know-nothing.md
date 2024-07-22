@@ -6,6 +6,10 @@ draft = false
 tags = ['immortal soul']
 +++
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 ![](/img/DeadKnowNothing/HearSeeSpeakNoEvil.png)
 
 The Bible says "the dead know nothing," but that doesn't mean they're oblivious.
