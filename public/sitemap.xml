@@ -3,21 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-20T18:06:26-05:00</lastmod>
+    <lastmod>2024-08-03T16:30:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/</loc>
-    <lastmod>2024-07-20T18:06:26-05:00</lastmod>
+    <lastmod>2024-08-03T16:30:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/blog/</loc>
-    <lastmod>2024-07-20T18:06:26-05:00</lastmod>
+    <lastmod>2024-08-03T16:30:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/christology/</loc>
+    <lastmod>2024-08-03T16:30:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/blog/could-jesus-have-sinned/</loc>
+    <lastmod>2024-08-03T16:30:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-03T16:30:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/blog/do-the-dead-know-nothing/</loc>
     <lastmod>2024-07-20T18:06:26-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/immortal-soul/</loc>
-    <lastmod>2024-07-20T18:06:26-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-20T18:06:26-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sabbath/</loc>
@@ -84,9 +90,6 @@
     <lastmod>2023-08-30T05:49:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/blog/5-reasons-cogs-are-not-christian/</loc>
-    <lastmod>2023-08-29T05:45:38-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/christology/</loc>
     <lastmod>2023-08-29T05:45:38-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/trinity/</loc>
